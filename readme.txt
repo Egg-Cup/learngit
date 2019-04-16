@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-This is in Jxrt £¡
+This is in Jxrt !
